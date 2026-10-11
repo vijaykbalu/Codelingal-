@@ -1,0 +1,5 @@
+print("Hello world.")
+print("HI WELCOME.")
+print("I am sanjeev.",end="hello")
+print("Python is an easy coding language.")
+print("IS it a going to be the answer for the question ",12.135,"say yes if",True)
